@@ -60,11 +60,7 @@ while True:
     conn.close()
 ```
 ## OUTPUT
-### clinet.py
-![Screenshot 2024-10-03 142249](https://github.com/user-attachments/assets/cac523f9-7a5d-475c-b93a-3147eb66a164)
-
-### server.py
-![Screenshot 2024-10-03 142316](https://github.com/user-attachments/assets/55535ba8-dbf5-4cbf-9fbf-dc9ef79546c2)
+![Screenshot 2024-11-07 103612](https://github.com/user-attachments/assets/2564f60f-36b4-42dd-9ba4-d455882f12a6)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
